@@ -1,0 +1,18 @@
+header{
+    text-align: center;
+}
+body{
+    background-color: black;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 45cm;
+    text-shadow: 20cap;
+    color: beige;
+    text-align: left;
+    font-style: italic;
+}
+h1{
+    text-align: center;
+    color: beige;
+    font-style: italic;
+}

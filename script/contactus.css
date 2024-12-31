@@ -1,0 +1,17 @@
+header{
+    text-align: center;
+
+}
+nav{
+    text-align: center;
+}    
+body{
+    background-color: black;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 45cm;
+    text-shadow: 20cap;
+    text-align: center;
+    color: beige;
+    font-style: italic;
+}
